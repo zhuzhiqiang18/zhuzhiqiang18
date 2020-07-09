@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Hangzhou
 - 📫 How to reach me: zhuzhiqiang2017@gmail.com
-![](https://visitor-badge.glitch.me/badge?page_id=zhuzhiqiang18)
+- ![](https://visitor-badge.glitch.me/badge?page_id=zhuzhiqiang18)
 
 <!--
 **zhuzhiqiang18/zhuzhiqiang18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
